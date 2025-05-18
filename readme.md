@@ -229,7 +229,7 @@ En este módulo se presenta un gráfico de barras horizontales apiladas que comp
 ## Enlaces de Proyecto
 
 - 🔗 **Repositorio en GitHub**  
-  [App-PlotyDash](https://github.com/Nany1993/App-PlotyDash)
+  [App-PlotyDash](https://github.com/Diana1295Dev/Diana1295Dev-App-PlotyDash_muertesCOL)
 
 - 🚀 **Demo en Render**  
   [https://app-plotydash.onrender.com](https://app-plotydash.onrender.com)

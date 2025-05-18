@@ -232,4 +232,4 @@ En este módulo se presenta un gráfico de barras horizontales apiladas que comp
   [App-PlotyDash](https://github.com/Diana1295Dev/Diana1295Dev-App-PlotyDash_muertesCOL)
 
 - 🚀 **Demo en Render**  
-  [https://app-plotydash.onrender.com](https://app-plotydash.onrender.com)
+  [https://app-plotydash.onrender.com](https://app-plotydash-muertescol.onrender.com)
